@@ -5,6 +5,6 @@ int main()
 {
     int a,b;
 
-    return a+b;
-    
+    cout<<"sum of two number: "<<a+b<<endl;
+
 }

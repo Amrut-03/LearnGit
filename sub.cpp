@@ -5,5 +5,5 @@ int main()
 {
     int a,b;
 
-    return a-b;
+    cout<<a-b;
 }
