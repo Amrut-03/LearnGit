@@ -6,4 +6,5 @@ int main()
     int a,b;
 
     cout<<a*b;
+    cout<<"Amrut Khochikar.";
 }
